@@ -1,0 +1,100 @@
+
+I
+java:S1444".Make this "public static roomName" field final(Òïİ×ÿÿÿÿÿ
+C
+java:S1444"-Make this "public static roomNum" field final(‚Ø»Ó
+A
+java:S1444"+Make this "public static hotel" field final(‰½áç
+B
+java:S1444",Make this "public static person" field final(Ëç‘‚
+R
+java:S1444"7Make this "public static customerFirstName" field final(ŸÆ¥¤ÿÿÿÿÿ
+P
+java:S1444"5Make this "public static customerSurName" field final(½Œ…ûüÿÿÿÿ
+K
+java:S1444"0Make this "public static noOfGuests" field final(àÑÂçÿÿÿÿÿ
+N
+java:S1444"3Make this "public static creditCardNum" field final(ŠºãÕüÿÿÿÿ
+A
+java:S1444"+Make this "public static input" field final(ÒÔä¸
+@
+java:S1444"*Make this "public static room" field final(ÕØñ
+¬
+java:S1192;"Define a constant instead of duplicating this literal "*******************************************************************************" 3 times.(ëŠëÈşÿÿÿÿ
+l	java:S117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úğ¾Êøÿÿÿÿ
+*
+java:S1700"Rename field "hotel"(‰½áç
+o
+java:S1104"TMake roomName a static final constant or non-public and provide accessors if needed.(Òïİ×ÿÿÿÿÿ
+i
+java:S1104"SMake roomNum a static final constant or non-public and provide accessors if needed.(‚Ø»Ó
+g
+java:S1104"QMake hotel a static final constant or non-public and provide accessors if needed.(‰½áç
+h
+java:S1104"RMake person a static final constant or non-public and provide accessors if needed.(Ëç‘‚
+x
+java:S1104"]Make customerFirstName a static final constant or non-public and provide accessors if needed.(ŸÆ¥¤ÿÿÿÿÿ
+v
+java:S1104"[Make customerSurName a static final constant or non-public and provide accessors if needed.(½Œ…ûüÿÿÿÿ
+q
+java:S1104"VMake noOfGuests a static final constant or non-public and provide accessors if needed.(àÑÂçÿÿÿÿÿ
+t
+java:S1104"YMake creditCardNum a static final constant or non-public and provide accessors if needed.(ŠºãÕüÿÿÿÿ
+g
+java:S1104"QMake input a static final constant or non-public and provide accessors if needed.(ÒÔä¸
+f
+java:S1104"PMake room a static final constant or non-public and provide accessors if needed.(ÕØñ
+3
+java:S2386"Make this member "protected".(‰½áç
+3
+java:S2386"Make this member "protected".(Ëç‘‚
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ëŠëÈşÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(©ü¹¦úÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(ëŠëÈşÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(ûÆ§Äşÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(ƒ¶«
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(Ã”Œÿÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(Œİèß
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(§‰àˆúÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(¤Ò²şÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(Ñş¾üûÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(Ü™
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(êò¬Ñÿÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(ï¦”øÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(—Ìôƒüÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(ëŠëÈşÿÿÿÿ
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(Êâøÿÿÿÿ
+N	java:S106t"9Replace this use of System.out or System.err by a logger.(ì´²
+N	java:S106w"9Replace this use of System.out or System.err by a logger.(ƒ¶«
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(Úî¢³ùÿÿÿÿ
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(¸ş…Òùÿÿÿÿ
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(á“´ùÿÿÿÿ
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ïäµ›
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(Òîü
+T	java:S106‘"9Replace this use of System.out or System.err by a logger.(÷ŠÇ§ÿÿÿÿÿ
+N	java:S106”"9Replace this use of System.out or System.err by a logger.(§™¼8
+T	java:S106—"9Replace this use of System.out or System.err by a logger.(œÁÊüÿÿÿÿ
+T	java:S106´"9Replace this use of System.out or System.err by a logger.(éîÅàıÿÿÿÿ
+T	java:S106¶"9Replace this use of System.out or System.err by a logger.(—îû’ùÿÿÿÿ
+O	java:S106·"9Replace this use of System.out or System.err by a logger.(ĞÊÔŠ
+O	java:S106¸"9Replace this use of System.out or System.err by a logger.(ûãç
+T	java:S106¹"9Replace this use of System.out or System.err by a logger.(†Åúÿÿÿÿ
+T	java:S106º"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+T	java:S106»"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+T	java:S106Â"9Replace this use of System.out or System.err by a logger.(Ä¼×¡şÿÿÿÿ
+T	java:S106Ì"9Replace this use of System.out or System.err by a logger.(¤Ì‡Èıÿÿÿÿ
+T	java:S106Ó"9Replace this use of System.out or System.err by a logger.(“º’Äüÿÿÿÿ
+N	java:S106Ù"9Replace this use of System.out or System.err by a logger.(Ù·’;
+O	java:S106Ş"9Replace this use of System.out or System.err by a logger.(İè ë
+E
+java:S1125â")Remove the literal "false" boolean value.(Ÿ“É°şÿÿÿÿ
+T	java:S106ã"9Replace this use of System.out or System.err by a logger.(ïáœ¶ùÿÿÿÿ
+O	java:S106ö"9Replace this use of System.out or System.err by a logger.( Ä‰‘
+W
+java:S1075ü"ARefactor your code to get this URI from a customizable parameter.(·»‰*
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(éí÷„ùÿÿÿÿ
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(Àûå 
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ıô‰‘ùÿÿÿÿ
+T	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

@@ -1,0 +1,40 @@
+Room number 0 and Customer name is  
+First Name :  
+surname :  
+Credit card number : 0
+Num of guests : 0
+Room number 1 and Customer name is channa
+First Name : channa
+surname : thilaka
+Credit card number : 12345
+Num of guests : 4
+Room number 2 and Customer name is  
+First Name :  
+surname :  
+Credit card number : 0
+Num of guests : 0
+Room number 3 and Customer name is  
+First Name :  
+surname :  
+Credit card number : 0
+Num of guests : 0
+Room number 4 and Customer name is  
+First Name :  
+surname :  
+Credit card number : 0
+Num of guests : 0
+Room number 5 and Customer name is  
+First Name :  
+surname :  
+Credit card number : 0
+Num of guests : 0
+Room number 6 and Customer name is ashan
+First Name : ashan
+surname : saliya
+Credit card number : 1235226
+Num of guests : 6
+Room number 7 and Customer name is  
+First Name :  
+surname :  
+Credit card number : 0
+Num of guests : 0
